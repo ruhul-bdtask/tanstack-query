@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "57d4f8d9-4190-46f1-aec9-9c98639261cd",
+      "fname": "August",
+      "lname": "Dudley",
+      "email": "newegikepo@mailinator.com",
+      "birthday": "2001-02-05"
+    },
+    {
+      "id": "278d8e5c-1089-4d78-a5bc-a85ece10293f",
+      "fname": "Zeus",
+      "lname": "Emerson",
+      "email": "bodito@mailinator.com",
+      "birthday": "1983-10-29"
+    },
+    {
+      "id": "0b0ab43f-8169-4480-98b4-728e15d9b54c",
+      "fname": "Yuri",
+      "lname": "Hurley",
+      "email": "cyzax@mailinator.com",
+      "birthday": "2014-01-27"
+    },
+    {
+      "id": "d9b415f7-5997-4478-8aa0-c1ffce27b537",
+      "fname": "Felix",
+      "lname": "Mayer",
+      "email": "hokuk@mailinator.com",
+      "birthday": "2013-05-15"
+    }
+  ]
+}
